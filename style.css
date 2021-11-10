@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@100&family=Dancing+Script&display=swap');
+
+body{
+    text-align: center;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcoCGel-RjW4c-NNOff6Ps9enlrht_L7Ehe8LE54VW7B-jM-OAb6f0NUgmpu1AtcGD3M&usqp=CAU);
+    background-size: cover;
+    
+}
+
+div{
+    font-family:  'Azeret Mono', monospace;
+    font-weight: 1000;
+} 
+    
+
+#item{
+    font-weight: 5000;
+    font-size: medium;
+}
+
+h1{
+    font-style:  'Azeret Mono', monospace;
+    font-weight: 5000;
+    font-size: 300%;
+}
+
+h2{
+    font-weight: 5000;
+    font-size: 300%;
+    color: dimgrey;
+}
+
+label{
+    font-size: larger;
+    font-weight: 500%;
+    font-style: italic;
+    color: midnightblue;
+}
